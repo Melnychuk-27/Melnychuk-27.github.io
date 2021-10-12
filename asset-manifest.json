@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.156159f6.chunk.css",
+    "main.js": "/static/js/main.7e9f0f59.chunk.js",
+    "main.js.map": "/static/js/main.7e9f0f59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d0ac4f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d0ac4f2.js.map",
+    "static/js/2.9619117b.chunk.js": "/static/js/2.9619117b.chunk.js",
+    "static/js/2.9619117b.chunk.js.map": "/static/js/2.9619117b.chunk.js.map",
+    "static/js/3.16d90772.chunk.js": "/static/js/3.16d90772.chunk.js",
+    "static/js/3.16d90772.chunk.js.map": "/static/js/3.16d90772.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.156159f6.chunk.css.map": "/static/css/main.156159f6.chunk.css.map",
+    "static/js/2.9619117b.chunk.js.LICENSE.txt": "/static/js/2.9619117b.chunk.js.LICENSE.txt",
+    "static/media/biopcia.9b880511.png": "/static/media/biopcia.9b880511.png",
+    "static/media/dermotoskopia.c27272d2.png": "/static/media/dermotoskopia.c27272d2.png",
+    "static/media/MainLazerSH.module.scss": "/static/media/face.23d185b2.png",
+    "static/media/gistologia.275e16ac.png": "/static/media/gistologia.275e16ac.png",
+    "static/media/MainIntro.module.scss": "/static/media/mainImg.45ba35f7.png",
+    "static/media/spectrocopia.52a78f07.png": "/static/media/spectrocopia.52a78f07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d0ac4f2.js",
+    "static/js/2.9619117b.chunk.js",
+    "static/css/main.156159f6.chunk.css",
+    "static/js/main.7e9f0f59.chunk.js"
+  ]
+}
